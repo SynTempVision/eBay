@@ -27,3 +27,21 @@ Every item can be physically located
 
 ##### eBay: System of record for listed items
 ---
+
+🔹 Step 1: Intake → InvenTree (always)
+
+Every item coming into the shop for the first time:
+
+Is recorded in InvenTree
+
+Gets:
+
+SKU
+
+Zone
+
+Status = Not Listed
+
+1–2 reference photos
+
+Gets physically tagged
