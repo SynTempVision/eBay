@@ -1,33 +1,37 @@
-## SOP-001:Intake-Identification-v1.md
+## SOP-001:Intake-Identification
 
 ##### Applies to: eBay inventory
 ##### Version: v1
-##### Owner: Sophia
-##### Effective: Draft / Practice
+##### Owner: 
+##### Status: Draft 
 
 --- 
 ### Purpose: 
-- To define how newly discovered or received items are identified, recorded, and physically controlled so that no inventory is invisible or duplicated.
-- This SOP ensures:
+- To define how items entering the shop for the first time are identified, recorded, and physically controlled so that no inventory is invisible, duplicated, or untraceable.
+- This SOP applies to:
 ```
-Every item is acknowledged
-Every item has a traceable identity
-Every item can be physically located
+- Items newly received into the shop
+- Items discovered during cleanup or reorganization
+- Items not yet listed on eBay
 ```
 ---
 ### Definitions
 
 ##### SKU: A unique 4-digit identifier assigned to an item
 
-##### Zone: A stable physical area (e.g., C4-A)
+##### Location: A stable physical area (e.g., C3-A1 -> Container 3, Shelf A, Row 1)
 
-##### Non-listed item: An item not currently active on eBay
+##### Processing Area: A designated zone where new items are evaluated
+
+##### Non-listed item: An item NOT currently Active on eBay
+
+##### Listed item: An item currently Actice on eBay
 
 ##### InvenTree: System of record for non-listed physical items
 
 ##### eBay: System of record for listed items
 ---
-🔹 Step 1: Intake 
+🔹 Step 1: Intake (Processing Area)
 - While in the Processing Area, items are:
     - Cleaned (if worth it)
     - Decided on:
@@ -55,3 +59,15 @@ Every item can be physically located
     - Option B: Listed items stay in InvenTree
          - Status changes to Listed
          - Used mainly if you want full physical audits
+---
+##### Rules & Constraints
+- No item may be stored without being recorded
+- No item may move Locations without a status change record of location
+- Draft eBay listings are not used as long-term inventory records
+- InvenTree is the source of truth for non-listed items
+- eBay is the source of truth for listed items
+---
+##### Records
+- InvenTree item record
+- Physical item tag
+- eBay listing (when applicable)
