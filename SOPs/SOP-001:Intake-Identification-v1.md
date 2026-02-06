@@ -27,7 +27,6 @@ Every item can be physically located
 
 ##### eBay: System of record for listed items
 ---
-
 🔹 Step 1: Intake 
 - While in the Processing Area, items are:
     - Cleaned (if worth it)
@@ -35,8 +34,8 @@ Every item can be physically located
         - List
         - Hold
         - Scrap
-    - 
- ---
+        - Office Use
+---
 🔹 Step 2: Inventree 
 - Recorded in InvenTree
     - SKU
@@ -44,10 +43,15 @@ Every item can be physically located
     - Status = Not Listed
     - 1–2 reference photos
     - Gets physically tagged w/ SKU
- ---
+---
 🔹 Step 3: List → then move
 - Create the eBay listing
 - Confirm SKU + item
 - Move the item physically
 - Update the zone and status
----
+    - Option A: Listed items leave InvenTree
+         - InvenTree = non-listed physical control only
+         - eBay = listed control
+    - Option B: Listed items stay in InvenTree
+         - Status changes to Listed
+         - Used mainly if you want full physical audits
