@@ -1,11 +1,11 @@
 ## SOP-001:Intake-Identification
 ---
-##### Applies to: eBay inventory
+##### Applies to: eBay
 ##### Version: v1
 ##### Owner: 
 ##### Status: Draft 
 ##### Document Control:
-- This document is version-controlled in GitHub. Commit history serves as the official revision record.
+- This document is document-controlled in GitHub. Commit history serves as the official revision record.
 --- 
 ### Purpose: 
 - To define how items entering the shop for the first time are identified, recorded, and physically controlled so that no inventory is invisible, duplicated, or untraceable.
@@ -26,13 +26,13 @@
 
 ##### Non-listed item: An item NOT currently Active on eBay
 
-##### Listed item: An item currently Actice on eBay
+##### Listed item: An item currently Active on eBay
 
 ##### InvenTree: System of record for non-listed physical items
 
 ##### eBay: System of record for listed items
 ---
-🔹 Step 1: Intake (Processing Area)
+🔹 Step 1: Initial Processing
 - While in the Processing Area, items are:
     - Cleaned (if worth it)
     - Decided on:
@@ -53,7 +53,7 @@
 - Create the eBay listing
 - Confirm SKU + item
 - Move the item physically
-- Update the zone and status
+- Update the location and status
     - Option A: Listed items leave InvenTree
          - InvenTree = non-listed physical control only
          - eBay = listed control
