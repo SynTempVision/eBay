@@ -1,10 +1,11 @@
 ## SOP-001:Intake-Identification
-
+---
 ##### Applies to: eBay inventory
 ##### Version: v1
 ##### Owner: 
 ##### Status: Draft 
-
+##### Document Control:
+- This document is version-controlled in GitHub. Commit history serves as the official revision record.
 --- 
 ### Purpose: 
 - To define how items entering the shop for the first time are identified, recorded, and physically controlled so that no inventory is invisible, duplicated, or untraceable.
