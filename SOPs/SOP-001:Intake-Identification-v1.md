@@ -1,9 +1,7 @@
 ## SOP-001:Intake-Identification-v1.md
 
-#### Applies to: 
-eBay inventory
-#### Version: 
-v1
+#### Applies to: eBay inventory
+#### Version: v1
 #### Owner: Sophia
 #### Effective: Draft / Practice
 
