@@ -49,5 +49,5 @@ Every item can be physically located
 - Create the eBay listing
 - Confirm SKU + item
 - Move the item physically
-- Update the zone
+- Update the zone and status
 ---
