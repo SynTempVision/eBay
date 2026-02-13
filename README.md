@@ -2,7 +2,7 @@
 
 ### Process Workflow:
 ```
-Intake / Inventory ->
+Processing / Inventory ->
 List ->
 Store ->
 Sell ->
