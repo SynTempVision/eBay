@@ -74,7 +74,3 @@
 - InvenTree is the source of truth for non-listed items
 - eBay is the source of truth for listed items
 ---
-##### Records
-- InvenTree item record
-- Physical item tag
-- eBay listing (when applicable)
