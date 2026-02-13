@@ -1,4 +1,4 @@
-## SOP-002:Create-Listing
+## SOP-002:CreateListing
 ---
 ##### Applies to: eBay  
 ##### Version: v1  
