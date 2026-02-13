@@ -10,7 +10,7 @@
 
 ### Purpose:
 - To define the standardized process for creating accurate, complete, and professional eBay listings.
-- To ensure listings are consistent, traceable, and aligned with SynTemp Vision inventory control procedures.
+- To ensure listings are consistent and traceable.
 - To reduce listing errors, returns, and approval rework.
 
 This SOP applies to:
@@ -31,7 +31,7 @@ This SOP applies to:
 ---
 🔹 **Step 1: Photography Requirements**
 
-- **Remove or obscure:**
+- **Remove or obscure before photographing:**
     - Old auction stickers
     - University labels
     - Lab property tags
@@ -45,11 +45,11 @@ This SOP applies to:
     - Crop and straighten images as needed
 
 - **First Photo (Primary Image):**
-    - Entire item shown (Arial Photo)
+    - Entire item shown (Aerial Photo)
     - Powered ON (if applicable)
     - All included parts/components visible
 
-- **Aditional Photos: Required Angles:**
+- **Additional Photos: Required Angles:**
     - Front
     - Back
     - Sides
@@ -157,8 +157,8 @@ This SOP applies to:
     - Accurate weight
     - Accurate dimensions
     - Padded for proper shipping material estimate
-        - weight plus 5 plbs
-        - Length / width / heighth plus 3-5 inches
+        - Add approximately 5 lbs for packing materials
+        - Add 3–5 inches to length/width/height for box space
     - No guessing
 
 ---
