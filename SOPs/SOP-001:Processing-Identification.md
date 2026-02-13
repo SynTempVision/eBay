@@ -18,17 +18,23 @@
 ---
 ### Definitions
 
-##### SKU: A unique 4-digit identifier assigned to an item
+##### SKU: 
+- A unique 4-digit identifier assigned to an item
 
-##### Location: A stable physical area (e.g., C3-A1 -> Container 3, Shelf A, Row 1)
+##### Location: 
+- A stable physical area (e.g., C3-A1 -> Container 3, Shelf A, Row 1)
 
-##### Processing Area: A designated zone where new items are evaluated
+##### Processing Area: 
+- A designated location where new items are evaluated
 
-##### Non-listed item: An item NOT currently Active on eBay
+##### Non-listed item: 
+- An item NOT currently Active on eBay
 
-##### Listed item: An item currently Active on eBay
+##### Listed item: 
+- An item currently Active on eBay
 
-##### InvenTree: System of record for non-listed physical items
+##### InvenTree: 
+- System of record for non-listed physical items
 
 ##### eBay: System of record for listed items
 ---
