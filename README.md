@@ -2,9 +2,11 @@
 
 ### Process Workflow:
 ```
-Processing / Inventory ->
+Processing ->
 List ->
 Store ->
 Sell ->
 Ship ->
 ```
+### Inventory catch up
+- 
